@@ -3,7 +3,7 @@
 
 Vue.js 2.0 Fundamentals
 
-
+Some of the basics I learnt about Vue.Js2 and found out it is much easy to understand than Angular2
 
 
     Part 2: Project Setup
