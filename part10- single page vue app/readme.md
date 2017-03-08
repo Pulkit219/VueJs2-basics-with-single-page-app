@@ -1,3 +1,11 @@
+<h1>Preview</h1>
+
+
+<img src="https://media.giphy.com/media/l1KVaeEhbwylhL1Di/source.gif"/>
+
+
+
+
 <h1>Steps</h1>
 
 Click the link </br>
